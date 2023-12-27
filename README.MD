@@ -34,7 +34,7 @@
 - Open Source
 ### Basic File system of Linux.
 - `/bin` Basic program: All commands instruction/definition written in `/bin` directory eg: `ls, cd, dir, etc`.
-- `/sbin` System program: that help OS to intract with other hardwarare are stored in `/sbin` directory eg: `fdisk, sysetl, mkfs, etc`.
+- `/sbin` System program: that help OS to intract with other hardware are stored in `/sbin` directory eg: `fdisk, sysetl, mkfs, etc`.
 - `/etc` Configuration files: when any software run in our system there all config; like port no, size, etc are stored in `/etc` directory.
 - `/temp` Temporary files: Store data taht is reciently created and if user deleted and user want it again they get from `/temp` directory.
 - `/usr/bin` Application: Other software that installed in system are stored in `/usr/bin` directory.
@@ -55,6 +55,7 @@
 - `rm`: Remove a file or folder.
 - `sudo su`: Grant root privileges - *great Power comes from great responsibility*.
 - `cat`: Show content of a file.
+- `gedit`: Edit the file.
 - `nano`: Linux file editor.
 - `chmod`: change directory permission.
 - `./`: Execute shell file.
